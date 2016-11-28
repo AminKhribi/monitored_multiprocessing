@@ -1,4 +1,4 @@
-# monitored_multoprocessing
+# monitored_multiprocessing
 custom python multiprocessing that checks the RAM state while launching tasks to prevent from crashing dur to memory errors
 
 How to use:
